@@ -1,0 +1,20 @@
+#ul{
+    border-width: 5px solid;
+    border-color: black;
+}
+.nav{
+    margin-left: 20px;
+}
+
+
+.nav-link{
+    color:black;
+}
+.nav-link:hover{
+    color: black;
+}
+
+.description{
+    text-align: left;
+}
+
